@@ -1,3 +1,3 @@
 # first-repo
 first github repository
-<br>by~ Madhu
+<br>by~ Madhu(maddy)
